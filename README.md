@@ -32,23 +32,14 @@ A machine learning and deep learning project for extracting meaningful features 
 1. Clone the repo:
 git clone https://github.com/Vikas717-creator/text-feature-extraction.git cd text-feature-extraction
 
-markdown
-Copy
-Edit
 
 2. Install required libraries:
 pip install -r requirements.txt
 
-markdown
-Copy
-Edit
 
 3. Run the pipeline:
 python text_preprocessing.py python bert_embeddings.py python clustering.py python visualize_clusters.py
 
-yaml
-Copy
-Edit
 
 ---
 
